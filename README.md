@@ -11,7 +11,7 @@
 
 ### Bedrock
 - Software Supported: `Windows 10`, `Android` and `iOS` [In accordance to this article](https://forums.minehut.com/topic/33758-how-to-connect-to-minehut-on-bedrock/)
-- Bedrock IP: GCSC.bedrock.minehut.gg
+- Bedrock IP: `GCSC.bedrock.minehut.gg`
 - Port: Default (19132)
 
 ## Links
